@@ -1,5 +1,5 @@
 function personas(x){
-   for (let i=0; i>=0;i++){
+   for (let i=0; i>=x;i++){
        
    }
 }
