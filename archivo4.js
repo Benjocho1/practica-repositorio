@@ -1,0 +1,1 @@
+const string = "soy el del medio";

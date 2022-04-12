@@ -1,0 +1,1 @@
+const saludo2 = "Hola tomas, te apellidas como un musico conocido";
